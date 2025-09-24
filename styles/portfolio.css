@@ -62,3 +62,43 @@ header{
     background-repeat: no-repeat;   
     background-position: left, bottom right;
 }
+
+.about-me{
+    background-color: #FFF8F3;
+    border-radius: 10px;
+    margin: 130px 150px;
+    text-align: center;
+    margin-top: 130px;
+}
+
+.about-me > h1{
+    font-weight: 700;
+    font-size: 35px;
+    margin-bottom: 50px;
+}
+
+.about-me > p{
+    color: #757575;
+    margin-bottom: 30px;
+}
+
+.about-me > div{
+    display: flex;
+    justify-content: space-around;
+}
+
+.about-me span {
+    display: flex;
+    flex-direction: column;
+}
+
+.about-me-heading{
+    font-size: 20px;
+    color: #757575;
+}
+
+.about-me-info{
+    font-size: 20px;
+    font-weight: 700;
+    color: #474747;
+}
