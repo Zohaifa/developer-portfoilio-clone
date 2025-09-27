@@ -184,3 +184,42 @@ header{
 .btn-container{
     text-align: center;
 }
+
+.connect{
+    display: flex;
+    gap: 100px;
+    background-color: #FFF8F3;
+    padding: 130px 200px;
+}
+
+.connect div{
+    display: block;
+    text-align: left;
+}
+
+.connect h3{
+    font-weight: 700;
+    font-size: 35px;
+    margin-bottom: 50px;
+}
+
+.connect p{
+    color: #757575;
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+.basic-input{
+    margin-bottom:24px;
+    border: 0px;
+    width: 100%
+}
+
+.text-input{
+    padding: 18px 30px;
+    height: 64px;
+}
+
+.message{
+    height: 200px;
+}
